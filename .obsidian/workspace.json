@@ -8,16 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60679f380e1ac3ca",
+            "id": "f8edba749cd51747",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "社区的五大核心工作领域，是分析一切问题的起点。.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "社区的五大核心工作领域，是分析一切问题的起点。"
             }
           }
         ]
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
+                "file": "社区的五大核心工作领域，是分析一切问题的起点。.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "社区的五大核心工作领域，是分析一切问题的起点。 的大纲"
             }
           },
           {
@@ -193,12 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60679f380e1ac3ca",
+  "active": "f8edba749cd51747",
   "lastOpenFiles": [
-    "测试一下.md",
-    "让我来.md",
-    "未命名.canvas",
     "未命名.base",
+    "社区的五大核心工作领域，是分析一切问题的起点。.md",
+    "让我来.md",
+    "测试一下.md",
+    "未命名.canvas",
     "新建 文本文档.txt"
   ]
 }
