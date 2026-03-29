@@ -3,17 +3,17 @@
   "title": "探讨社区工作方法的实践与应用",
   "titleGenerationStatus": "success",
   "createdAt": 1774456726059,
-  "updatedAt": 1774456807277,
-  "lastResponseAt": 1774456807277,
+  "updatedAt": 1774784536499,
+  "lastResponseAt": 1774784536498,
   "sessionId": "64f9574c-77d5-4127-be97-f223568f2bcc",
   "sdkSessionId": "64f9574c-77d5-4127-be97-f223568f2bcc",
   "usage": {
     "model": "haiku",
-    "inputTokens": 5141,
+    "inputTokens": 8963,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 18450,
     "contextWindow": 200000,
-    "contextTokens": 23591,
-    "percentage": 12
+    "contextTokens": 27413,
+    "percentage": 14
   }
 }
