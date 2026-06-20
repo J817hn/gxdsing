@@ -1,19 +1,23 @@
 {
   "id": "conv-1774456726052-i2zkmokpd",
-  "title": "探讨社区工作方法的实践与应用",
-  "titleGenerationStatus": "success",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
   "createdAt": 1774456726059,
-  "updatedAt": 1774784536499,
-  "lastResponseAt": 1774784536498,
-  "sessionId": "64f9574c-77d5-4127-be97-f223568f2bcc",
-  "sdkSessionId": "64f9574c-77d5-4127-be97-f223568f2bcc",
+  "updatedAt": 1781943422008,
+  "lastResponseAt": 1781943422007,
+  "sessionId": "5d23d905-1e2a-4a3f-8f61-b80379b39d97",
+  "sdkSessionId": "5d23d905-1e2a-4a3f-8f61-b80379b39d97",
+  "previousSdkSessionIds": [
+    "64f9574c-77d5-4127-be97-f223568f2bcc"
+  ],
+  "currentNote": "劳动法考试点.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 8963,
+    "inputTokens": 0,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 18450,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 27413,
-    "percentage": 14
+    "contextTokens": 0,
+    "percentage": 0
   }
 }

@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "社区工作方法.md",
+                "file": "劳动法考试点.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "社区工作方法 的大纲"
+              "title": "劳动法考试点 的大纲"
             }
           },
           {
@@ -205,7 +205,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "f8edba749cd51747",
+  "active": "270c3992aaa50afb",
   "lastOpenFiles": [
     "笔记/考试/今日学习报告-20260329.md",
     "劳动法考试点.md",
