@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "劳动法考试点.md",
+                "file": "笔记/AI工具链/Claude_Code_N8N工作流教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "劳动法考试点"
+              "title": "Claude_Code_N8N工作流教程"
             }
           }
         ]
@@ -205,8 +205,10 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "270c3992aaa50afb",
+  "active": "f8edba749cd51747",
   "lastOpenFiles": [
+    "劳动法考试点.md",
+    "笔记/AI工具链/Claude_Code_N8N工作流教程.md",
     "笔记/考试/学习报告-20260403.md",
     "笔记/考试/46-二十大报告核心考点与时政热点专题.md",
     "笔记/考试/45-案例分析-社区选举与停车位纠纷综合.md",
@@ -224,10 +226,8 @@
     "笔记/考试/20-公基经济常识高频考点.md",
     "笔记/考试/19-社区治理与共同体建设专题.md",
     "笔记/考试/18-社区服务与志愿者管理专题.md",
-    "笔记/AI工具链/Claude_Code_N8N工作流教程.md",
     "笔记/AI工具链",
     "笔记/考试/今日学习报告-20260329.md",
-    "劳动法考试点.md",
     "笔记/考试/学习日志-20260327.md",
     "笔记/考试/今日学习报告-20260328.md",
     "笔记/考试/今日学习报告-20260326.md",
