@@ -3,14 +3,13 @@
   "title": "你好",
   "titleGenerationStatus": "failed",
   "createdAt": 1774456726059,
-  "updatedAt": 1781943578670,
-  "lastResponseAt": 1781943578670,
+  "updatedAt": 1782620440606,
+  "lastResponseAt": 1782620440606,
   "sessionId": "5d23d905-1e2a-4a3f-8f61-b80379b39d97",
   "sdkSessionId": "5d23d905-1e2a-4a3f-8f61-b80379b39d97",
   "previousSdkSessionIds": [
     "64f9574c-77d5-4127-be97-f223568f2bcc"
   ],
-  "currentNote": "劳动法考试点.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 0,
